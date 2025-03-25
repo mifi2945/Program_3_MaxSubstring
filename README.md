@@ -1,7 +1,7 @@
 # Program_3_MaxSubstring
 
 - [ ] A paragraph describing the approach you will use to solve the problem. Provide at least 2 illustrations that explain the approach.
-- [ ] High-level pseudocode for an algorithm that uses that rule to solve the computational problem for any input
+- [X] High-level pseudocode for an algorithm that uses that rule to solve the computational problem for any input
 - [ ] An explanation and justification for why your algorithm is correct (1-3 paragraphs)
 - [ ] A table of your test cases, the answers you expect, and the answers returned by your implementation of the algorithm.
 - [ ] An analysis of the asymptotic runtime of your algorithm, using techniques from this class.
